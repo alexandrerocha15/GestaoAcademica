@@ -10,7 +10,7 @@ public abstract class Funcionario : Pessoa
     public override void MostrarDados()
     {
         Console.WriteLine($"Funcionario: {Nome}");
-        Console.WriteLine($"Matrícula:   {Matricula}");
-        Console.WriteLine($"Salário:     {Salario}");
+        Console.WriteLine($"Matrícula: {Matricula}");
+        Console.WriteLine($"Salário: {Salario}");
     }
 }

@@ -9,4 +9,8 @@ public class TecnicoAdministrativo : Funcionario
         base.MostrarDados();
         Console.WriteLine($"Função: {Funcao}");
     }
+    public override string ToString()
+    {
+        return $"{base.ToString()} - Função: {Funcao}";
+    }
 }

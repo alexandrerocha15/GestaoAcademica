@@ -15,8 +15,7 @@ class Program
 
         foreach (var p in pessoas)
         {
-            p.MostrarDados();
-            Console.WriteLine();
+            Console.WriteLine(p);
         }
     }
 }

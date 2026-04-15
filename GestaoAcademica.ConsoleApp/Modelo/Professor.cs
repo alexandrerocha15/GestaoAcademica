@@ -11,4 +11,8 @@ public class Professor : Funcionario
         Console.WriteLine($"Área: {AreaAtuacao}");
         Console.WriteLine($"Titulação: {Titulacao}");
     }
+    public override string ToString()
+    {
+        return $"{base.ToString()} - Área: {AreaAtuacao} - Titulação: {Titulacao}";
+    }
 }

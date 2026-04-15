@@ -10,4 +10,8 @@ public class Coordenador : Funcionario
         base.MostrarDados();
         Console.WriteLine($"Senha do Alarme: {SenhaDoAlarme}");
     }
+    public override string ToString()
+    {
+        return $"{base.ToString()} - Senha do Alarme: {SenhaDoAlarme}";
+    }
 }

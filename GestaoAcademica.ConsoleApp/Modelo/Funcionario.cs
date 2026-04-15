@@ -11,6 +11,11 @@ public abstract class Funcionario : Pessoa
     {
         Console.WriteLine($"Funcionario: {Nome}");
         Console.WriteLine($"Matrícula: {Matricula}");
-        Console.WriteLine($"Salário: {Salario}");
+        Console.WriteLine($"Salário:     {Salario}");
+    }
+
+    public override string ToString()
+    {
+        return $"Nome: {Nome} - Matrícula: {Matricula} - Salário: {Salario}";
     }
 }

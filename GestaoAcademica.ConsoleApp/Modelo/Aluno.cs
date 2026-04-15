@@ -9,4 +9,8 @@ public class Aluno : Pessoa
         Console.WriteLine($"Aluno: {Nome}");
         Console.WriteLine($"Matrícula: {Matricula}");
     }
+    public override string ToString()
+    {
+        return $"Aluno: {Nome} - Matrícula: {Matricula}";
+    }
 }

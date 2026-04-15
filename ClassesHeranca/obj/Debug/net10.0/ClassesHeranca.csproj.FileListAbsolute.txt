@@ -1,0 +1,22 @@
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\bin\Debug\net10.0\ClassesHeranca.deps.json
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\bin\Debug\net10.0\ClassesHeranca.dll
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\bin\Debug\net10.0\ClassesHeranca.pdb
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.dll
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\refint\ClassesHeranca.dll
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.pdb
+C:\Users\Cliente\Desktop\Faculdade\3 Semestre\Desenvolvimento de Sistemas\Aula 08\Herança\ClassesHeranca\obj\Debug\net10.0\ref\ClassesHeranca.dll
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\bin\Debug\net10.0\ClassesHeranca.deps.json
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\bin\Debug\net10.0\ClassesHeranca.dll
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\bin\Debug\net10.0\ClassesHeranca.pdb
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.AssemblyInfoInputs.cache
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.AssemblyInfo.cs
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.csproj.CoreCompileInputs.cache
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.dll
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\refint\ClassesHeranca.dll
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.pdb
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ref\ClassesHeranca.dll

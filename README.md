@@ -1,5 +1,5 @@
 # 🎓 Sistema de Gestão Acadêmica (C#)
-
+![](AplicaçãoHerança/docs/heranca.gif)
 Projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas, com foco em Programação Orientada a Objetos (POO), utilizando herança em C#.
 
 

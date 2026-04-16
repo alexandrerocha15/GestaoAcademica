@@ -20,3 +20,4 @@ C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\Cla
 C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\refint\ClassesHeranca.dll
 C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.pdb
 C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ref\ClassesHeranca.dll
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\ClassesHeranca\obj\Debug\net10.0\ClassesHeranca.sourcelink.json

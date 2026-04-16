@@ -16,3 +16,4 @@ C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\Apl
 C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\AplicaçãoHerança\obj\Debug\net10.0\AplicaçãoHerança.pdb
 C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\AplicaçãoHerança\obj\Debug\net10.0\AplicaçãoHerança.genruntimeconfig.cache
 C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\AplicaçãoHerança\obj\Debug\net10.0\ref\AplicaçãoHerança.dll
+C:\Users\juny1\Desktop\Faculdade\3 Fase\Desenvolvimento de Sistemas\Herança\AplicaçãoHerança\obj\Debug\net10.0\AplicaçãoHerança.sourcelink.json
